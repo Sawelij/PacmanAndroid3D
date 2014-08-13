@@ -16,7 +16,7 @@ public class PacmanActivity extends Activity {
 	
 	private GLSurfaceView glSurfaceView;
 	private boolean rendererSet = false;
-	
+	// TEST
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
